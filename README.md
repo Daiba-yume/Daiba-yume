@@ -6,7 +6,9 @@
 
 -🛠️ Je crée des interfaces dynamiques, interactifs et agréables à utiliser.
 
--📚 Chaque projet est une nouvelle occasion d'apprendre et de m'améliorer. Tu peux jeter un œil à mon portfolio : https://daiba-portfolio.vercel.app/
+-📚 Chaque projet est une nouvelle occasion d'apprendre et de m'améliorer. Tu peux jeter un œil à mon portfolio :<br>
+
+https://daiba-portfolio.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/daïba-benamara-949574298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daiba.bnm@gmail.com) 
